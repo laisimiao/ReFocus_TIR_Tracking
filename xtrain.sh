@@ -1,0 +1,1 @@
+ python tracking/train.py --script refocus --config vitb_refocus --save_dir ./output --mode multiple  --nproc_per_node 2 --use_wandb 1
