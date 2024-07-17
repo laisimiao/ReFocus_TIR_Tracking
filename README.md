@@ -1,7 +1,9 @@
 # ReFocus_TIR_Tracking  
-The official implementation for the paper: "xxx".  
+The official implementation for the **\[TNNLS 2024\]** paper: "**Refocus the Attention for Parameter-Efficient Thermal Infrared Object Tracking**". 
 
-
+:rocket: Update Models and Results (2024/07/17)  
+[Models & Raw Results & Training logs](https://drive.google.com/drive/folders/1Q3NYwKwm-NBPKLxxApRHxNfyCgTbkOy2?usp=drive_link) [Google Driver]  
+[Models & Raw Results & Training logs](https://pan.baidu.com/s/1beeHhL9wj7R8TMg3VdGvbg ) [Baidu Driver: v27s]
 
 
 ## Install the environment
