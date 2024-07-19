@@ -1,5 +1,5 @@
 # ReFocus_TIR_Tracking  
-The official implementation for the **\[TNNLS 2024\]** paper: "**Refocus the Attention for Parameter-Efficient Thermal Infrared Object Tracking**". 
+The official implementation for the **\[TNNLS 2024\]** paper: "**[Refocus the Attention for Parameter-Efficient Thermal Infrared Object Tracking](https://doi.org/10.1109/TNNLS.2024.3420928)**". 
 
 :rocket: Update Models and Results (2024/07/17)  
 [Models & Raw Results & Training logs](https://drive.google.com/drive/folders/1Q3NYwKwm-NBPKLxxApRHxNfyCgTbkOy2?usp=drive_link) [Google Driver]  
