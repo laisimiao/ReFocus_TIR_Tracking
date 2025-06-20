@@ -50,6 +50,8 @@ Replace `--config` with the desired model config under `experiments/refocus`. We
 ## Evaluation
 Download the model weights `OSTrack_ep0060.pth.tar` from above driver link  
 
+Download the evaluation toolkits from [here](https://github.com/laisimiao/ReFocus_TIR_Tracking/blob/main/LSOTB_Toolkit.zip)  
+
 Put the downloaded weights on `$PROJECT_ROOT$/checkpoints/`  
 
 Change the corresponding values of `lib/test/evaluation/local.py` to the actual benchmark saving paths. Then  
